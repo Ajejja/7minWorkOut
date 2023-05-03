@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".FinalActivity"
+    android:background="@drawable/finalstep">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/tool_bar_finish_activity"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@color/colorAccent"
+        app:titleTextColor="@color/white"
+        android:theme="@style/ToolbarTheme"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+
+        />
+    <TextView
+        android:id="@+id/tvEnd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:text="END"
+        android:textSize="35sp"/>
+    <LinearLayout
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/donesignbackground"
+        android:layout_gravity="center">
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:contentDescription="@string/image"
+            android:src="@drawable/ic_action_done"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="Congradulations!!"
+        android:textSize="35sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="you have completed your workout!! "
+        android:textSize="35sp"
+        android:gravity="center"
+        />
+
+    <FrameLayout
+        android:id="@+id/flFinish"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:background="@drawable/item_color_accent_border_ripple_background">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="FINISH"
+            android:textColor="@color/colorPrimary"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+    </FrameLayout>
+
+</LinearLayout>
+
