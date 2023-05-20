@@ -3,7 +3,6 @@
 # Main page
 in this activity the user have the choices , he can see his history of calculate his BMI or to see his exercise history.
 ![Screenshot_20230521_001615](https://github.com/Ajejja/AjejaManage/assets/122018379/3ffa2dfb-60d3-4754-974b-9ca66134224e)
-![Screenshot_20230521_001628](https://github.com/Ajejja/AjejaManage/assets/122018379/b8c96c7d-bc23-4eb6-8004-99028850a456)
 # BMI activity
 for the BMI the user can calculate his BMI with the Metric units  or the US units
 ![Screenshot_20230521_001634](https://github.com/Ajejja/AjejaManage/assets/122018379/63532a6e-110f-46b5-9a1b-fbbe0c562e64)
