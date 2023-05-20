@@ -10,7 +10,7 @@ the user can have his BMI value + comment discribing his physical situation and 
 ![Screenshot_20230521_001658](https://github.com/Ajejja/AjejaManage/assets/122018379/50a7438a-bd2f-499e-8f98-fdb504234aaf)
 ![Screenshot_20230521_001713](https://github.com/Ajejja/AjejaManage/assets/122018379/2b345d22-3516-4c3e-abc3-55ea19c5b3e0)
 ![Screenshot_20230521_001726](https://github.com/Ajejja/AjejaManage/assets/122018379/645e4601-0687-41e8-a2c0-7b7ef72d6273)
-# History ACtivity
+# History Activity
 in this activity the user can see his exercises history that was saved inside a room data base
 ![Screenshot_20230521_002058](https://github.com/Ajejja/AjejaManage/assets/122018379/5faa404c-6bb3-49c7-8bd4-f63be3fcea02)
 # Exercise Types activity 
